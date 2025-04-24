@@ -1,5 +1,9 @@
 # Attention-Is-All-You-Need
-Read the paper "Attention Is All You Need" from Ashish Veshwani et al. I was so motivated and loved it so much that I decided to code the Transformer Architecture from scratch.
+Read the paper "Attention Is All You Need" from Ashish Veshwani et al. I was so motivated and loved it so much that I decided to code the Transformer Architecture from scratch. Credit to Datacamp course on "Transformer Model in Pytorch".
+
+![Transformer](https://aiml.com/wp-content/uploads/2023/09/Annotated-Transformers-Architecture.png)
+
+
 Unpacking the Transformer:
 
 ## 1. Encoder Block:
